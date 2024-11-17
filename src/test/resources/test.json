@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "username": "Kei",
+      "userFullName": "Don",
+      "userActive": true,
+      "bookName": "Island",
+      "bookAuthor": "K.T."
+    },
+    {
+      "username": "Jo",
+      "userFullName": "Din",
+      "userActive": false,
+      "bookName": "5 days",
+      "bookAuthor": "F.R."
+    }
+  ]
+}
